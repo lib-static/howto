@@ -1,0 +1,17 @@
+body{
+    font-family: $font-family;
+    font-size: $font-size;}
+
+.text-dark{
+    color:black;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important;
+    background-color: #F1B300 !important;
+}
+
+.dropdown-menu.show {
+    display: block;
+    z-index: 1030;
+}
