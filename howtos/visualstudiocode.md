@@ -11,7 +11,7 @@ Visual Studio Code is an open source text editor which will help you develop you
 - Go to [Visual Studio Code's website](https://code.visualstudio.com){:target="_blank"}. Here you will find clear instructions about how to download this program. The website should discern if you are visiting their site using windows, IOS, or Linux. 
 - It will then display a button that says "Download" for whatever operating system your computer utilizes. Click this button. 
 
-{% include bootstrap/figure.md img="howto/visualstudio/screen-shot-1.png" caption="download button (provides options for various operating systems)" alt="screen shot of the download button for downloading VS code" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/screen-shot-1.png" caption="download button (provides options for various operating systems)" alt="screen shot of the download button for downloading VS code" class="w-50" %}
 
 
 
@@ -19,7 +19,7 @@ Visual Studio Code is an open source text editor which will help you develop you
 
 - After you click on the download button you will be taken to a page that says "Get Started." It will also drop a download package to the bottom of your browser (or the top of your browser in the downloads file if using a Mac). 
 - Click on the downloaded file and accept the terms of agreement, select the destination location, select menu start folder, click any additional tasks (probably only "add to path"), and then install. 
-{% include bootstrap/figure.md img="howto/visualstudio/screen-shot-2.png" caption="download file" alt="screen shot of the download file for downloading VS code" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/screen-shot-2.png" caption="download file" alt="screen shot of the download file for downloading VS code" class="w-50" %}
 - After a minute or so the download should be completed and will direct you to click the "finish" button. 
 
 # Setting up Visual Studio Code 
@@ -29,16 +29,16 @@ You will, over time, realize your preferences in Visual Studio Code; however, he
 ## Step 1
 
 - Open your Visual Studio Code and scroll down to the gear icon in the bottom left hand corner of the window. 
-{% include bootstrap/figure.md img="howto/visualstudio/screenshotgears2copy.png" caption="gear icon" alt="screen shot of gear icon" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/screenshotgears2copy.png" caption="gear icon" alt="screen shot of gear icon" class="w-50" %}
 
 - the select the "settings" option. 
-{% include bootstrap/figure.md img="howto/visualstudio/screenshotsettings.png" caption="settings button" alt="screen shot of the settings button" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/screenshotsettings.png" caption="settings button" alt="screen shot of the settings button" class="w-50" %}
 
 - Toward the top right-hand corner of the window you will see a file icon, click on it.  
-{% include bootstrap/figure.md img="howto/visualstudio/screenshotfile.png" caption="file icon" alt="screen shot of the file icon" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/screenshotfile.png" caption="file icon" alt="screen shot of the file icon" class="w-50" %}
 
 - You will be taken to a tab which will contain two curly brackets. Note: if there is any text contained inside of the brackets delete it now, but leave the brackets.
-{% include bootstrap/figure.md img="howto/visualstudio/sreenshot.6.png" caption="curly brackets" alt="screen shot of the file icon" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/sreenshot.6.png" caption="curly brackets" alt="screen shot of the file icon" class="w-50" %}
 
 - You will then copy and paste this code in between the brackets. This will update your settings to what we believe will work compatibly with Collection Builder's needs. 
 
@@ -55,7 +55,7 @@ You will, over time, realize your preferences in Visual Studio Code; however, he
 "problems.autoReveal": false  
 ```
 
-{% include bootstrap/figure.md img="howto/visualstudio/screenshot.7.png" caption="copied code" alt="screen shot of pasted text" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/screenshot.7.png" caption="copied code" alt="screen shot of pasted text" class="w-50" %}
 
 - Now that you are complete be sure to save your changes before moving on. You have officially *set up* Visual Studio Code. 
 
@@ -67,11 +67,11 @@ You will get used to Visual Studio Code and determine your own preferences over 
 
 - Find an icon at the bottom left-hand corner of your window. Click it. 
 
-{% include bootstrap/figure.md img="howto/visualstudio/pluginfind.png" caption="extensions icon" alt="screen shot of extensions" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/pluginfind.png" caption="extensions icon" alt="screen shot of extensions" class="w-50" %}
 
 - You should be taken to a screen like this. The search bar is where you will search any extensions you want to install. 
 
-{% include bootstrap/figure.md img="howto/visualstudio/searchbar.png" caption="search bar" alt="screen shot of search bar" class="w-50" %}
+{% include bootstrap/figure.md img="/visualstudio/searchbar.png" caption="search bar" alt="screen shot of search bar" class="w-50" %}
 
 ## Step 2 
 
@@ -81,7 +81,7 @@ Now it's time to start searching and installing plug-ins. It's as easy as typing
 
 - To install this extension, simply click the green "install" button. The program will do the rest. 
 
-{% include bootstrap/figure.md img="howto/visualstudio/spellcheck.png" alt="screen shot of spell check" class="w-50" %} 
+{% include bootstrap/figure.md img="/visualstudio/spellcheck.png" alt="screen shot of spell check" class="w-50" %} 
 
 **Here's a quick list of other extensions you might find useful.**  
 

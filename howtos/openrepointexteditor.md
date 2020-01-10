@@ -11,14 +11,14 @@ This guide will help you open your repository in a text editor such as Visual St
 ### Step 1: Open your GitHub desktop
 
 - Make sure the repository you want to edit is selected under your "Current Repository".
-{% include bootstrap/figure.md img="howto/github/github_currentrepository.png" caption="Current Repository on GitHub Desktop" alt="screen shot of the download button" %}
+{% include bootstrap/figure.md img="/github/github_currentrepository.png" caption="Current Repository on GitHub Desktop" alt="screen shot of the download button" %}
 
 ### Step 2: Open in Text Editor
 
 1. On the top menu of GitHub Desktop, select the "Repository" tab.
 2. Then select the option that says "Open in Text Editor"
     - It might also say "Open in Visual Studio Code" if that is the text editor you have. Same goes for if you have any other text editor already.
-{% include bootstrap/figure.md img="howto/github/github_openinvisualstudiocode.png" caption="Opening repository in text editor" alt="screen shot of opening repository in text editor" %}
+{% include bootstrap/figure.md img="/github/github_openinvisualstudiocode.png" caption="Opening repository in text editor" alt="screen shot of opening repository in text editor" %}
 
 {:.alert .alert-success}
 That's it! It should have brought up your text editor of choice and your repository files and code.
