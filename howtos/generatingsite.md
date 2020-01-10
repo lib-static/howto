@@ -26,12 +26,12 @@ Generating your website code in your text editor allows you to see your edits as
 ### Step 3: Type `jekyll s` into your terminal
 
 - This is a command working with jekyll to act a local server for your website.
-{% include bootstrap/figure.md img="/howto/github/jekylls.png" caption="Locally serving your website" alt="Typing jekyll s into the terminal to locally serve your website" %}
+{% include bootstrap/figure.md img="/github/jekylls.png" caption="Locally serving your website" alt="Typing jekyll s into the terminal to locally serve your website" %}
 
 ### Step 4: View your Website
 
 - Give it a few seconds and it will generate a link.
-{% include bootstrap/figure.md img="/howto/github/jekyllslink.png" caption="Local link for your website" alt="a screenshot of the link for your website" %}
+{% include bootstrap/figure.md img="/github/jekyllslink.png" caption="Local link for your website" alt="a screenshot of the link for your website" %}
 
 - Hold down the `ctrl` button and click on this link and it will open in your browser.
 

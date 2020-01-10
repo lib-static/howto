@@ -38,50 +38,50 @@ Frustratingly, different versions of Ruby have many dependency and incompatibili
     - You'll then be prompted to press `Enter` once more to continue the install:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/brew1.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/brew1.png" class="border border-dark w-75" %}
 
 - When the script finishes installing, your terminal screen will look something like this:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/brew2.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/brew2.png" class="border border-dark w-75" %}
 
 - Next, copy and paste the command `brew install rbenv` into your terminal prompt and press `Enter`. This installation might take a while:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/brewinstall.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/brewinstall.png" class="border border-dark w-75" %}
 
 - Once rbenv has been installed, copy and paste `rbenv init` into the terminal prompt and press `Enter`. This installation is a short one. Your screen should look like this when it's finished:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/rbenvinit.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/rbenvinit.png" class="border border-dark w-75" %}
 
 - The program is asking you to edit your bash profile so that this setting is constant from now on. The terminal should have a message similar to the following:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/rbenvbashprofile.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/rbenvbashprofile.png" class="border border-dark w-75" %}
 
 To edit your bash profile, follow the instructions below: 
 - Open your bash profile with the terminal's text editor, nano, by copying and pasting  `nano ~/.bash_profile` into the terminal prompt and pressing `Enter`. 
 - Your terminal should switch to a nano text editor screen that includes a path to .bash_profile at the top. Below is an example of what a bash profile can look like, but note that this profile's contents will probably look different from yours and that's okay:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/bash1.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/bash1.png" class="border border-dark w-75" %}
 
 - Use the down arrow on your keyboard to move to the end of the text file.
 - Paste `eval "$(rbenv init -)` at the end of the profile's text:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/bash2.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/bash2.png" class="border border-dark w-75" %}
 
 - Press `Control` + `x` to exit and save the profile. You'll see a message at the bottom of your screen asking whether you want to save the profile:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/bash3.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/bash3.png" class="border border-dark w-75" %}
 
 - Press the `y` key on your keyboard to specify yes. The bottom of your screen will then look like this:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/bash4.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/bash4.png" class="border border-dark w-75" %}
 
 - Press `Enter` to finish saving the file and exit nano.
 
@@ -97,7 +97,7 @@ To edit your bash profile, follow the instructions below:
     - Enter `ruby -v` into the terminal prompt, and press `Enter`:
 
 {:.text-center}
-{% include bootstrap/image.md img="/howto/ruby/mac/rubyv.png" class="border border-dark w-75" %}
+{% include bootstrap/image.md img="/ruby/mac/rubyv.png" class="border border-dark w-75" %}
 
 - If your terminal indicates that you have Ruby 2.6.3 or higher installed, you've done it!
 

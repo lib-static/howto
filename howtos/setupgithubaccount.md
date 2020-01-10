@@ -8,7 +8,7 @@ This guide will show you how to set up your GitHub Online Account.
 ### Step 1: Go to [GitHub](https://github.com/){:target="_blank"}
 
 - Fill out your information on the page and select "Sign Up for GitHub"
-{% include bootstrap/figure.md img="/howto/github/github_newaccount.png" alt="a screenshot of GitHub Login or Setup Page" %}
+{% include bootstrap/figure.md img="/github/github_newaccount.png" alt="a screenshot of GitHub Login or Setup Page" %}
 
 ### Step 2: Choose a Plan
 
@@ -16,7 +16,7 @@ This guide will show you how to set up your GitHub Online Account.
 
 - Select the "Choose Free" option.
 
-{% include bootstrap/figure.md img="/howto/github/github_newaccount-choosefree.png" alt="a screenshot of GitHub account set up plan choice" %}
+{% include bootstrap/figure.md img="/github/github_newaccount-choosefree.png" alt="a screenshot of GitHub account set up plan choice" %}
     
 {:.alert .alert-info}
 You can opt to pay for the plan if you'd like, but you can also select to have the free version which has all of the features necessary to make your website.
