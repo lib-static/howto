@@ -13,3 +13,5 @@ Open a terminal:
 - Windows: Click the Windows menu and search for Git Bash.
 - Mac: the "Terminal" app is available in Applications > Utilities, or lauch Spotlight (Command + spacebar) and type Terminal.
 - Linux: most likely called "Terminal"
+
+Most operating systems also allow you to right-click on a folder and choose "Open in Terminal" or "Git Bash Here" to make it easy to open a terminal in a specific file location.
