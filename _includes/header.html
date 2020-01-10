@@ -1,54 +1,19 @@
-<header class="mb-4">
-    <div class="container-fluid h-100">
-        <div class="row px-3 bg-dark text-white py-2">
-            <div class="col-md-4">
-                <div class="row">
-                    <div class="col-12 mx-auto text-center">
-                        <h1 class="mt-2 h2"> <a class="text-white mx-auto" href="{{ '/' | relative_url}}">How Tos</a></h1>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-8 mt-3" role="navigation">
-                <ul class="nav nav-pills nav-fill float-right">
-                    <!--
-                    <li class="nav-item dropdown">
-                        <a class="nav-link text-white dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                            aria-haspopup="true" aria-expanded="false">Types</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="https://collectionbuilder.github.io/collectionbuilder-gh/about/">Github-Pages</a>
-                            <a class="dropdown-item disabled" href="#">Stand Alone</a>
-                            <a class="dropdown-item" href="{{'/skins/' | relative_url}}">Skin - CONTENTdm</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item disabled" href="#">Skin - Murkutu (coming soon)</a>
-                        </div>
-                    </li>
-                   
-                    <li class="nav-item dropdown">
-                        <a class="nav-link text-white dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                            aria-haspopup="true" aria-expanded="false">Get Started</a>
-                        <div class="dropdown-menu">
-                            
-                            <h5 class="ml-2">Documentation</h5>
-
-                                {%for doc in site.data.docs-nav %}
-                                {%unless doc.parent%}
-                             
-                                <a class="dropdown-item" href="{{ doc.page | prepend: 'docs/' | append: '.html' | relative_url }}">
-                                 {{doc.title}}
-                                </a>
-                    
-                            {%endunless%}{%endfor%}
-                           
-                        </div>
-                    </li>
-                -->
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="{{'about.html' | relative_url}}">About</a>
-                    </li>
-                   
-                </ul>
-            </div>
-
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/libstatic3.png' | relative_url }}" style="max-height:35px" class="my-2 img-fluid"> Lib-Static Howtos</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ '/' | relative_url }}">List</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{'about.html' | relative_url}}">About</a>
+                </li>
+            </ul>
         </div>
     </div>
-</header>
+</nav>
