@@ -3,6 +3,11 @@ layout: howto
 title: How To Install Ruby on Linux
 ---
 
+[Ruby](https://www.ruby-lang.org/en/){:target="_blank"} is a fairly young and developing programming language with some unique features. 
+To use Jekyll, ***you do not need to know anything about Ruby***, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/){:target="_blank"}.
+Jekyll requires Ruby version 2.4.0 or above (at the time of this writing), plus a few common build tools. 
+Check the [Jekyll requirements](https://jekyllrb.com/docs/installation/) for latest details.
+
 On linux distributions there are a few options for installing [Ruby](https://www.ruby-lang.org/en/): 
 
 - Use your distro's repositories. This is *easy* (for example on Ubuntu, `sudo apt install ruby-full`), but will not be an up-to-date and may introduce some issues where you must install gems as `sudo`.

@@ -25,7 +25,7 @@ title: How To Edit Files in GitHub Online
 {% include bootstrap/figure.md img="/github/github_commitchangeonline.png" caption="Performing a Commit" alt="Describing your change and commiting your change" %}
 
 {:.alert .alert-success}
-Congrats! You successfully edited and committed your changes to a file on GitHub. You'll use this process anytime you make changes to your files when developing your webiste with GitHub.
+Congrats! You successfully edited and committed your changes to a file on GitHub. You'll use this process anytime you make changes to your files when developing your website with GitHub.
 
 - For more information and guides about the GitHub workflow, see these [GitHub guides](https://help.github.com/en/desktop/contributing-to-projects){:target="_blank"}.
 
