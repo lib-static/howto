@@ -10,10 +10,14 @@ Though several exist, and will serve CollectionBuilder's function, Visual Studio
 
 ### Step 1: Download Visual Studio Code
 
-- Go to [Visual Studio Code's website](https://code.visualstudio.com){:target="_blank"}. Here you will find clear instructions about how to download this program. The website should discern if you are visiting their site using windows, IOS, or Linux. 
-- It will then display a button that says "Download" for whatever operating system your computer utilizes. Click this button. 
+- Navigate to [Visual Studio Code's website](https://code.visualstudio.com){:target="_blank"}
+- Follow the instructions for downloading this program
 
-{% include bootstrap/figure.md img="/visualstudio/screen-shot-1.png" caption="download button (provides options for various operating systems)" alt="screen shot of the download button for downloading VS code" class="w-50" %}
+The website should automatically detect which operating system (Windows, IOS, Linux) you're using.
+
+- Select the "Download" button that displays for your computer's operating system 
+
+{% include bootstrap/figure.md img="/visualstudio/screen-shot-1.png" caption="Download buttons for various operating systems" alt="screenshot of the download buttons for Visual Studio Code by operating system" class="w-50" %}
 
 ### Step 2: Initiate/finalize the download
 
@@ -26,7 +30,7 @@ Though several exist, and will serve CollectionBuilder's function, Visual Studio
 
 You will, over time, realize your preferences in Visual Studio Code; however, here are the settings we recommend beginning with when starting Collection Builder. 
 
-Step 3a: **Update setting to meet CollectionBuilder's needs**
+#### Update settings to meet CollectionBuilder's needs
 
 - Open your Visual Studio Code and scroll down to the gear icon in the bottom left hand corner of the window. 
 {% include bootstrap/figure.md img="/visualstudio/screenshotgears2copy.png" caption="gear icon" alt="screen shot of gear icon" class="w-50" %}
@@ -59,7 +63,7 @@ Step 3a: **Update setting to meet CollectionBuilder's needs**
 
 - Now that you are complete be sure to save your changes before moving on. You have officially *set up* Visual Studio Code. 
 
-Step 3b: **Add *Optional* extensions**
+#### Add *optional* extensions
 
 You will get used to Visual Studio Code and determine your own preferences over time. Extensions are a great way to customize and maximize your experience coding. 
 
