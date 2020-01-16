@@ -8,7 +8,7 @@ It's often called the shell, terminal, console, cmd, or Bash, but ultimately the
 
 Its job is to act as a **command shell**, taking input from the user, ordering the computer's operating system (OS) to execute the instructions, and returning the outputs.
 
-The most popular and commonly used terminal is the Unix shell **Bash** ([Bourne Again SHell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) which is standard on Linux and Mac OS, and available on Windows via [Git Bash](https://git-for-windows.github.io/) or [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
+The most popular and commonly used is the Unix shell **Bash** ([Bourne Again SHell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) which is standard on Linux and Mac OS, and available on Windows via [Git Bash](https://git-for-windows.github.io/) or [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 
 To open a terminal: 
 
