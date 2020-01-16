@@ -27,7 +27,7 @@ Select "Push Origin" to *save* these changes to your online GitHub account and l
 
 This step also allows your team members and others to see these changes in your online GitHub repository
 
-{% include bootstrap/figure.md img="/github/github_pushcommittoorigin.png" caption="Pushing Commits to the Origin(GitHub)" alt="Pushing Commits to Origin button" %}
+{% include bootstrap/figure.md img="/github/github_pushcommittoorigin.png" caption="Pushing Commits to the Origin (GitHub)" alt="Pushing Commits to Origin button" %}
 
 ### Pulling Changes from GitHub
 
