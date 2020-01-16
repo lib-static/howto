@@ -15,15 +15,15 @@ So let's give Atom another shot! It fulfills all of the needs of a text editor, 
 - Navigate to [Atom's website](https://atom.io){:target="_blank"} 
 - Select "Download" (the website should automatically detect what OS you utilize)
 
-{% include bootstrap/figure.md img="/atom/atom.homepage.png" caption="download button" alt="screen shot of the download button" class="w-50"%}
+{% include bootstrap/figure.md img="/atom/atom.homepage.png" caption="Atom download button" alt="screenshot of the Atom download button" class="w-50"%}
 
 - Once the download is complete, select and open the downloaded file 
 
-{% include bootstrap/figure.md img="/atom/atom.zip.file.png" caption="zip file" alt="screen shot of the zip file" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/atom.zip.file.png" caption="Downloaded Atom zip file" alt="screenshot of the downloaded Atom zip file" class="w-50" %}
 
 - If prompted, follow on-screen instructions such as "click yes, the program is safe" or "are you sure you want to open it"
 
-{% include bootstrap/figure.md img="/atom/download.permission.png" caption="" alt="screen shot of permission request" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/download.permission.png" caption="Atom permission request" alt="screen shot of Atom permission request" class="w-50" %}
 
 ## Step 2: Start coding or customize 
 
@@ -33,7 +33,7 @@ Once installation is complete, you can:
 
 There are also options to learn quick key combinations that will make your experience much more efficient. You can choose themes, if you are an aesthetically driven person, or if it just makes more sense for you visually to manipulate the program a bit. 
 
-{% include bootstrap/figure.md img="/atom/know.atom.copy.png" caption="" alt="screen shot of atom homepage" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/know.atom.copy.png" caption="Atom homepage" alt="screenshot of Atom homepage" class="w-50" %}
 
 ## Step 3: Install a package on Atom (optional)
 
@@ -43,14 +43,14 @@ To do so:
 
 - Select the "Install a Package" button under the "Get to Know Atom" window
 
-{% include bootstrap/figure.md img="/atom/know.atom.install.png" caption="" alt="screen shot of the install button" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/know.atom.install.png" caption="Atom homepage" alt="screen shot of the Atom homepage with the install button" class="w-50" %}
 
 - Then select the "Open Installer" button
 
-{% include bootstrap/figure.md img="/atom/open.search.png" caption="" alt="screen shot of the open installer" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/open.search.png" caption="Install a package window" alt="screen shot of the open installer" class="w-50" %}
 
 - In the search bar, enter the name of packages you wish to install or search options Atom suggests 
-{% include bootstrap/figure.md img="/atom/search.bar.copy.png" caption="install package search bar" alt="screen shot of the search bar" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/search.bar.copy.png" caption="Install package search bar" alt="screen shot of the install package search bar" class="w-50" %}
 
 One helpful package is "Rainbow-CSV", which will color-coat your text and help you segregate lines and various pieces of code. 
 
@@ -58,4 +58,4 @@ One helpful package is "Rainbow-CSV", which will color-coat your text and help y
 
 - Then select "Install" 
 
-{% include bootstrap/figure.md img="/atom/rainbow.emphasis.png" caption="" alt="screen shot of the search bar and install button" class="w-50" %}
+{% include bootstrap/figure.md img="/atom/rainbow.emphasis.png" caption="Install rainbow-csv" alt="screen shot of the rainbow-csv install button" class="w-50" %}
