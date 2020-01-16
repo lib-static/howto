@@ -35,11 +35,11 @@ Since Git is a command line application, we will need to open a terminal to give
 
 Once you have a terminal open, we will need to give it two commands.
 
-1. Set your username so that it matches your GitHub account username:
+1) Set your username so that it matches your GitHub account username:
 
 `git config --global user.name "User Name"`
 
-2. Set your email address so that it matches your GitHub email address:
+2) Set your email address so that it matches your GitHub email address:
 
 `git config --global user.email "myemail@gmail.com"`
 
