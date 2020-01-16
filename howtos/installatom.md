@@ -25,7 +25,7 @@ So let's give Atom another shot! It fulfills all of the needs of a text editor, 
 
 {% include bootstrap/figure.md img="/atom/download.permission.png" caption="" alt="screen shot of permission request" class="w-50" %}
 
-## Step 2:  
+## Step 2: Start coding or customize 
 
 Once installation is complete, you can:
 - Click around and start coding
