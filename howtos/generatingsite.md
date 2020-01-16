@@ -25,7 +25,7 @@ Generating website code in your text editor allows you to see your edits in real
 
 ### Step 3: Locally serve your website
 
-- Type `jekyll s` into your terminal and hit `enter`
+- Type `jekyll s` into your terminal and hit `enter` or `return`
     - This command works with jekyll and acts as a local server for your website
     
 {% include bootstrap/figure.md img="/github/jekylls.png" caption="Locally serving your website" alt="Typing jekyll s into the terminal to locally serve your website" %}
