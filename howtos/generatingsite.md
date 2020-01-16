@@ -36,7 +36,7 @@ Generating website code in your text editor allows you to see your edits in real
 
 - Hold down the `ctrl` button on your keyboard 
 
-- Click on the link displayed after "Server address" to open the website in your browser
+- Select the "Server address" link to open the local website in your browser
 
 {:.alert .alert-success}
 Now you can make edits in your text editor and see them in real-time! This means you don't need to push your changes before viewing them.
