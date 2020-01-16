@@ -39,7 +39,5 @@ The free version has all of the features necessary to make your website, but you
 
 ### Step 6: Use GitHub to make your own digital collection using CollectionBuilder
 
-- Now you are ready to use your GitHub account! 
-
-Visit the [How To Set Up the CollectionBuilder Repository in GitHub Desktop](githubdesktoprepo.html){:target="_blank"} guide to make you own digital collection with [CollectionBuilder](https://collectionbuilder.github.io/){:target="_blank"}.
+- Visit [How To Set Up the CollectionBuilder Repository in GitHub Desktop](githubdesktoprepo.html){:target="_blank"} to make you own digital collection with [CollectionBuilder](https://collectionbuilder.github.io/){:target="_blank"}
 
