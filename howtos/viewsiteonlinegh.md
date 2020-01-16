@@ -3,11 +3,10 @@ layout: howto
 title: How To View Your Site with GitHub Online
 ---
 
-### Step 1: Sign in to your online [GitHub](https://github.com/){:target="_blank"} Account
+### Step 1: Sign in to your online [GitHub account](https://github.com/){:target="_blank"}
 
-### Step 2: Navigate to settings
+### Step 2: Select the "Settings" tab from your respository's top menu
 
-- Select the "Settings" tab from your respository's top menu
 {% include bootstrap/figure.md img="/github/github_onlinesettings.png" caption="Locating the settings tab in GitHub" alt="a screenshot of locating GitHub's settings tab" %}
 
 ### Step 3: Publish your site
