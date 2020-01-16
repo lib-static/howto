@@ -2,15 +2,13 @@
 layout: howto
 title: How To Install and Setup Atom 
 ---
-# Installing Atom 
-
 Atom is an open source text editor, which will help you develop your Collection Builder template. 
 
 In the past, people have moved toward using Visual Studio Code rather than Atom. This is because, in the quest to achieve optimal functionality, Atom felt unnecessarily complex; however, Visual Studio Code has made many of the same movements toward increasing functionality, and in the process has aligned itself next to Atom in terms of usability. 
 
 So let's give Atom another shot! It fulfills all of the needs of a text editor, and some people think it beats out Visual Studio Code. 
 
-## Step 1: Download Atom 
+### Step 1: Download Atom 
 
 - Navigate to [Atom's website](https://atom.io){:target="_blank"} 
 - Select "Download" (the website should automatically detect what OS you utilize)
@@ -25,7 +23,7 @@ So let's give Atom another shot! It fulfills all of the needs of a text editor, 
 
 {% include bootstrap/figure.md img="/atom/download.permission.png" caption="Atom permission request" alt="screen shot of Atom permission request" class="w-50" %}
 
-## Step 2: Start coding or customize 
+### Step 2: Start coding or customize 
 
 Once installation is complete, you can:
 - Click around and start coding
@@ -35,7 +33,7 @@ There are also options to learn quick key combinations that will make your exper
 
 {% include bootstrap/figure.md img="/atom/know.atom.copy.png" caption="Atom homepage" alt="screenshot of Atom homepage" class="w-50" %}
 
-## Step 3: Install a package on Atom (optional)
+### Step 3: Install a package on Atom (optional)
 
 You may want to install an optional package on Atom to help increase the usability. 
 
