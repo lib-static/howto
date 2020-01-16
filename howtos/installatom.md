@@ -11,7 +11,9 @@ So let's give Atom another shot! It fulfills all of the needs of a text editor, 
 ### Step 1: Download Atom 
 
 - Navigate to [Atom's website](https://atom.io){:target="_blank"} 
-- Select "Download" (the website should automatically detect what OS you utilize)
+- Select "Download"
+
+The website should automatically detect which operating system you're using (Windows, IOS, Linux).
 
 {% include bootstrap/figure.md img="/atom/atom.homepage.png" caption="Atom download button" alt="screenshot of the Atom download button" class="w-50"%}
 
