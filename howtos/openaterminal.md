@@ -10,7 +10,7 @@ Its job is to act as a **command shell**, taking input from the user, ordering t
 
 The most popular and commonly used is the Unix shell **Bash** ([Bourne Again SHell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) which is standard on Linux and Mac OS, and available on Windows via [Git Bash](https://git-for-windows.github.io/) or [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 
-To open a terminal: 
+### Open a terminal
 
 - **Windows**
   - Select the Windows menu and search for "Git Bash"
