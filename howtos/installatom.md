@@ -37,7 +37,7 @@ There are also options to learn quick key combinations that will make your exper
 
 ## Step 3: Install a package on Atom (optional)
 
-You may want to install an optional package on Atom. Packages help increase the useability. 
+You may want to install an optional package on Atom to help increase the usability. 
 
 To do so:
 
