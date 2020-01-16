@@ -34,7 +34,7 @@ This selection will reload your page.
 
 {% include bootstrap/figure.md img="/github/github_quickaccesslink.png" caption="Quick Access to your published website" alt="a screenshot of pasting your published website link to your GitHub page description for quick access" %}
 
-- Paste the link in the "Website" text box
+- Paste the link into the "Website" text box
 
 - Select "Save"
 
