@@ -25,7 +25,7 @@ Before you clone your repository, you will need to install [GitHub Desktop.](git
 - Choose the location, then select "Clone"
 {% include bootstrap/figure.md img="/github/github_desktopclone.png" caption="Cloning to GitHub desktop" alt="Cloning to GitHub desktop" %}
 
-### Step 4: That's It!!
+### Step 4: That's it!!
 
 You've successfully cloned your repository and should be able to see your repository name in the top left corner of GitHub desktop. For additional help, you can refer to [GitHub's guides.](https://help.github.com/en/desktop/contributing-to-projects){:target="_blank"}
 
