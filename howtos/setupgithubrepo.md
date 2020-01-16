@@ -26,6 +26,7 @@ After selecting "create a new repository", the next page will prompt you to ente
 
 - If necessary, use the optional "Description" field to share more information about your repository
   - This field is helpful if you're collaborating with others
+
 {% include bootstrap/figure.md img="/github/github_newdescription.png" caption="Giving your repository a name" alt="Repository name and description fields" %}
 
 ### Step 4: README and .gitignore
