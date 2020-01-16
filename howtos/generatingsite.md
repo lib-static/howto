@@ -4,44 +4,47 @@ title: How To Generate your Site from Your Text Editor
 ---
 {:.alert .alert-warning}
 <div>
-    <p>You should already have:
+    <p>Before starting this how-to guide, you should already have the following installed:
     <ul>
         <li>a text editor such as <a href="visualstudiocode.html" target="_blank">Visual Studio Code</a> or <a href="installatom.html" target="_blank">Atom</a></li>
-        <li><a href="installrubywindows.html" target="_blank">Ruby</a> and</li>
+        <li><a href="installrubywindows.html" target="_blank">Ruby</a></li>
         <li><a href="installandupdatejekyll.html" target="_blank">jekyll</a></li>
     </ul> 
-    installed for this how-to guide to work for you.</p>
+   </p>
 </div>
 
 Generating your website code in your text editor allows you to see your edits as you make them, BEFORE you publish your edits.
 
-### Step 1: Open your Repository in your Text Editor
+### Step 1: Open your repository in your Text Editor
 
-- View this [guide](openrepointexteditor.html) if you're unsure how to do this.
+- View this [guide](openrepointexteditor.html) if you're unsure how to do this
 
-### Step 2: Open your Terminal in your Text Editor
+### Step 2: Open the terminal in your Text Editor
 
-- View this [guide](openterminalwindows.html) if you're unsure how to do this.
+- View this [guide](openterminalwindows.html) if you're unsure how to do this
 
-### Step 3: Type `jekyll s` into your terminal
+### Step 3: Locally serve your website
 
-- This is a command working with jekyll to act a local server for your website.
+- Type `jekyll s` into your terminal and hit `enter`
+    - This command works with jekyll and acts as a local server for your website
 {% include bootstrap/figure.md img="/github/jekylls.png" caption="Locally serving your website" alt="Typing jekyll s into the terminal to locally serve your website" %}
 
-### Step 4: View your Website
+### Step 4: View your website
 
-- Give it a few seconds and it will generate a link.
-{% include bootstrap/figure.md img="/github/jekyllslink.png" caption="Local link for your website" alt="a screenshot of the link for your website" %}
+- After a few seconds, this command will generate a local link for your website
+{% include bootstrap/figure.md img="/github/jekyllslink.png" caption="Generating a local link for your website" alt="A screenshot of the local link for your website" %}
 
-- Hold down the `ctrl` button and click on this link and it will open in your browser.
+- Hold down the `ctrl` button on your keyboard 
+
+- Click on the link displayed after "Server address" to open the website in your browser
 
 {:.alert .alert-success}
-Now you can see your edits as you make them in your text editor! You don't need to push your changes before viewing them now.
+Now you can make edits in your text editor and see them in real-time! This means you don't need to push your changes before viewing them.
 
-- You will have to save all of your changes and refresh your page before seeing further edits.
+### Step 5: Make and view further edits
 
-### To Stop Serving your Website...
+- If you make additional edits in your text editor, save all of your changes and refresh your website to see them
 
-- If you want to serve another website or if you want to close your programs you will have to stop locally serving your website.
+### Step 6: Stop serving your website
 
-- To do this, go back into your terminal and press `ctrl + c`
+- To close your programs or serve another website, go back into your text editor and terminal, type `ctrl + c`, and hit `enter`
