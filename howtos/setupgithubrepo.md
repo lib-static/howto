@@ -5,7 +5,7 @@ title: How To Create a New GitHub Repository
 
 This guide will show you how to create a repository in your online GitHub account.
 
-Think of each repository as a folder of files for one project that will be tracked together. For example, a CollectionBuilder project will be one repository.
+Each repository is like a folder of files for one project that will be tracked together. For example, a CollectionBuilder project will be one repository.
 
 ### Step 1: Sign in to your [GitHub](https://github.com/){:target="_blank"} account
 
