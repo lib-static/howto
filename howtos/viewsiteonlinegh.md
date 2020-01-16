@@ -32,11 +32,11 @@ This selection will reload your page.
 
 - Select the "Edit" button on the right-hand side next to your site description
 
+{% include bootstrap/figure.md img="/github/github_quickaccesslink.png" caption="Quick Access to your published website" alt="a screenshot of pasting your published website link to your GitHub page description for quick access" %}
+
 - Paste the link in the "Website" text box
 
 - Select "Save"
 
 {:.alert .alert-success}
 Now you don't have to navigate to your settings every time you want to view your website.
-
-{% include bootstrap/figure.md img="/github/github_quickaccesslink.png" caption="Quick Access to your published website" alt="a screenshot of pasting your published website link to your GitHub page description for quick access" %}
