@@ -5,7 +5,7 @@ title: How To Push and Pull Commits to a Repository (GitHub Desktop Edition)
 
 When you edit your code online or in your text editor, you will be prompted to "commit" your changes -- think of this as "saving" your changes. 
 
-These changes can be viewed by everyone in your collaborative group, if you have one, by *pushing* them changes to your GitHub. In comparison, *pulling* changes means that you are *downloading* commits made by someone else or from another source so that you can view them.
+These changes can be viewed by everyone in your collaborative group, if you have one, by *pushing* them to GitHub. In comparison, *pulling* changes means that you are *downloading* commits made by someone else or from another source so that you can view them.
 
 ### Committing changes with GitHub desktop
 
