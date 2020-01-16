@@ -13,7 +13,7 @@ Before you clone your repository, you will need to install [GitHub Desktop.](git
 ### Step 2: Navigate to the repository you want to clone
 
 ### Step 3: Above the files in your repository, select "Clone or Download" on the right-hand side
-{% include bootstrap/figure.md img="/github/github_cloneordownloadbutton.png" caption="Locating the clone or download Button" alt="Locating the clone or download button" %}
+{% include bootstrap/figure.md img="/github/github_cloneordownloadbutton.png" caption="Locating the clone or download button" alt="Locating the clone or download button" %}
 
 - A small box will appear under the button; select "Open in Desktop"
 - Another box may appear, and if prompted, select "Open GitHub Desktop"
