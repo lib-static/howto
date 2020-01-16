@@ -27,8 +27,10 @@ It will also drop a download package to the bottom of your browser (or the top o
 
 - Select the downloadeded file and accept the terms of agreement
   - If prompted, follow on-screen instructions such as "click yes, the program is safe" or "are you sure you want to open it"
+  
 - Select the destination location and menu start folder
-- Select any additional tasks (probably only "add to path"), and then install. 
+
+- Select any additional tasks (probably only "add to path"), and then install 
 
 {% include bootstrap/figure.md img="/visualstudio/screen-shot-2.png" caption="download file" alt="screen shot of the download file for downloading VS code" class="w-50" %}
 
@@ -53,6 +55,7 @@ You will then be taken to a tab that contains two curly brackets. *Note*: if the
 {% include bootstrap/figure.md img="/visualstudio/sreenshot.6.png" caption="curly brackets" alt="screen shot of the file icon" class="w-50" %}
 
 - Copy and paste the code below between the two curly brackets
+
 - Save your changes
 
 This will update your settings to what we believe will work compatibly with Collection Builder's needs. 
@@ -91,7 +94,7 @@ A new screen and search bar will appear where you can search for any extensions 
 Searching and installing plug-ins is as easy as typing in the desired program into your search bar and hitting *enter/return*. 
 
 A few great options when working in CollectionBuilder are:
-- *Spell check*
+- Spell check
   - Indicates, with a squiggly and colored line (like in Microsoft Word), when you havre incorrectly spelled something 
 
 - Rainbow CSV
@@ -100,7 +103,9 @@ A few great options when working in CollectionBuilder are:
 - Avocode
   - Helps when utilizing images edited in Photoshop 
 
-To install one of these extensions, simply search for its name and select the green "install" button. The program will do the rest. 
+To install one of these extensions, simply search for its name and select the green "install" button. 
+
+The program will do the rest. 
 
 {% include bootstrap/figure.md img="/visualstudio/spellcheck.png" alt="screen shot of spell check" class="w-50" %}
 
