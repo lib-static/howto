@@ -13,9 +13,9 @@ title: How To Generate your Site from Your Text Editor
    </p>
 </div>
 
-Generating your website code in your text editor allows you to see your edits as you make them, BEFORE you publish your edits.
+Generating website code in your text editor allows you to see your edits in real-time BEFORE publishing them.
 
-### Step 1: Open your repository in your Text Editor
+### Step 1: Open a repository in your Text Editor
 
 - View this [guide](openrepointexteditor.html) if you're unsure how to do this
 
@@ -45,6 +45,6 @@ Now you can make edits in your text editor and see them in real-time! This means
 
 - If you make additional edits in your text editor, save all of your changes and refresh your website to see them
 
-### Step 6: Stop serving your website
+### Step 6: Close your programs or serve another website
 
-- To close your programs or serve another website, go back into your text editor and terminal, type `ctrl + c`, and hit `enter`
+- Navigate back to your text editor terminal and type `ctrl + c`
