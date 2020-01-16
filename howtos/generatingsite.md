@@ -15,11 +15,11 @@ title: How To Generate your Site from Your Text Editor
 
 Generating website code in your text editor allows you to see your edits in real-time BEFORE publishing them.
 
-### Step 1: Open a repository in your Text Editor
+### Step 1: Open a repository in your text editor
 
 - View this [guide](openrepointexteditor.html) if you're unsure how to do this
 
-### Step 2: Open the terminal in your Text Editor
+### Step 2: Open the terminal in your text editor
 
 - View this [guide](openterminalwindows.html) if you're unsure how to do this
 
