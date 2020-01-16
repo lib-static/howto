@@ -13,7 +13,7 @@ This guide will help you open your repository in a text editor such as Visual St
 - Under "Current Repository", select the repository you want to edit
 {% include bootstrap/figure.md img="/github/github_currentrepository.png" caption="Current repository on GitHub desktop" alt="screen shot of the download button" %}
 
-### Step 2: Open repository in Text Editor
+### Step 2: Open repository in text editor
 
 - On the GitHub Desktop menu, select the "Repository" tab
 
