@@ -3,17 +3,20 @@ layout: howto
 title: How To Push and Pull Commits to a Repository (GitHub Desktop Edition)
 ---
 
-When you make edits with your code, either online or in your text editor, you will be prompted to commit your changes. Think of it as "saving" your changes. These changes can be viewed by everyone in your collaborative group, if you have one, by *pushing* these changes to your GitHub. *Pulling* changes means that you are "downloading" commits made by someone else or from another source so that you can view them.
+When you edit your code online or in your text editor, you will be prompted to "commit" your changes -- think of this as "saving" your changes. 
 
-### Committing Changes with GitHub Desktop
+These changes can be viewed by everyone in your collaborative group, if you have one, by *pushing* them changes to your GitHub. In comparison, *pulling* changes means that you are *downloading* commits made by someone else or from another source so that you can view them.
 
-1. After you've made some edits and changes with your code, you will see all of your changes in a sidebar in GitHub Desktop.
+### Step 1: Committing changes with GitHub desktop
 
-2. This sidebar will show whether these edits consisted of deleting a file, modifying a file, or adding a file based on the icon next to each change.
+After you've edited your code, you will see all of your changes in a sidebar in GitHub Desktop. The icon located next to each change indicates whether these edits consisted of deleting a file, modifying a file, or adding a file.
 
-3. Before committing your changes, you will have to add a summary to your commit. This way, team members can know the change that was made.
+Before committing your changes, you will have to describe them so others know what changed:
+- Type a brief title describing the changes you just made in the first text box
+- If necessary, use the second text box to add a more detailed description
 
-4. Commit the change
+After adding a description, select the "Commit to master" button.
+
 {% include bootstrap/figure.md img="/github/github_commitbaseupload.png" caption="Performing a Commit" alt="Commit action sidebar and adding a commit summary" %}
 
 ### Pushing Changes to GitHub
