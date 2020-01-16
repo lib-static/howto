@@ -21,7 +21,7 @@ After adding a description, select the "Commit to master" button.
 
 ### Pushing changes to GitHub online
 
-Once you've committed your changes, these pending commits will appear in the "Push origin" box at the top of the window.
+Once you've committed your changes, these pending commits will appear in the top menu within the "Push origin".
 
 Select "Push Origin" to *save* these changes to your online GitHub account and local files.
 
@@ -31,7 +31,7 @@ This step also allows your team members and others to see these changes in your 
 
 ### Pulling Changes from GitHub
 
-When edits were made to your files elsewhere or by others, these pending commits will appear in the "Pull origin" box at the top of the window. This is the same place where you would see "Push Origin". 
+When edits were made to your files elsewhere or by others, these pending commits will appear in the top menu within the "Pull origin" box. This is the same place where you would see "Push Origin". 
 
 Select "Pull Origin" to *apply* these new changes to the local files on your computer. 
 
