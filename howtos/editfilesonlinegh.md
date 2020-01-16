@@ -6,24 +6,26 @@ title: How To Edit Files in GitHub Online
 ### Step 1: Sign in to your [GitHub Account](https://github.com/){:target="_blank"}
 
 - Select the file you would like to edit
-- If you [created a new repository](setupgithubrepo.html.) and initialized it with a README file, you can get the hang of things by editing this file first 
+  - If you [created a new repository](setupgithubrepo.html.) and initialized it with a README file, you can get the hang of things by editing this file first 
 
 ### Step 2: Select the "Edit" button
 
 - The edit button is marked by a pencil icon on the top right-hand side of the file
 
+- Make the desired changes to your file
+
 ### Step 3: Describe your changes
 
-- Once you've made your desired changes, scroll to the bottom of the page to the "Commit Changes" section
+- After editing your file, scroll to the bottom of the page to the "Commit Changes" section
 
-- In the first text box, type a brief title describing the changes you just made; this helps you keep track of the changes and undo them later, if necessary.
-
-- The second text box is optional and lets you describe your changes in more detai
+- Type a brief title describing the changes you just made in the first text book; this description helps you keep track of the changes and undo them later, if necessary.
+  - The second text box is optional and lets you describe your changes in more detail
 {% include bootstrap/figure.md img="/github/github_commitchangeonline.png" caption="Describing and committing your changes" alt="Describing your change and committing your change" %}
 
 ### Step 4: Commit your changes
 
 - After describing your changes, commit them by selecting "Commit Changes"
+  - In GitHub, the word "commit" is similar to the word "save" 
 
 {:.alert .alert-success}
 Congrats! You successfully edited, described, and committed your changes to a file on GitHub. You'll use this process anytime you make changes to your files with GitHub.
