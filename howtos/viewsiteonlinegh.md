@@ -21,10 +21,7 @@ This selection will reload your page.
 
 - Select the link next to "Your site is published at" to visit your website
 
-{:.alert .alert-info}
-### *Optional*, but useful
-
-### Step 4: Place your published site link on the "Code" tab
+### Step 4: Place your published site link on the "Code" tab (*Optional*)
 
 - Copy your website link 
 
