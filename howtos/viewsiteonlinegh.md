@@ -24,7 +24,7 @@ This selection will reload your page.
 {:.alert .alert-info}
 ### *Optional*, but useful
 
-### Step 4: Place this link on the "Code" tab
+### Step 4: Place your published site link on the "Code" tab
 
 - Copy your website link 
 
