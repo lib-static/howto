@@ -13,7 +13,7 @@ Though several exist, and will serve CollectionBuilder's function, Visual Studio
 - Navigate to [Visual Studio Code's website](https://code.visualstudio.com){:target="_blank"}
 - Follow the instructions for downloading this program
 
-The website should automatically detect which operating system (Windows, IOS, Linux) you're using.
+The website should automatically detect which operating system you're using (Windows, IOS, Linux).
 
 - Select the "Download" button that displays for your computer's operating system 
 
@@ -21,10 +21,18 @@ The website should automatically detect which operating system (Windows, IOS, Li
 
 ### Step 2: Initiate/finalize the download
 
-- After you click on the download button you will be taken to a page that says "Get Started." It will also drop a download package to the bottom of your browser (or the top of your browser in the downloads file if using a Mac). 
-- Click on the downloaded file and accept the terms of agreement, select the destination location, select menu start folder, click any additional tasks (probably only "add to path"), and then install. 
+After you click on the download button you will be taken to a page that says "Get Started." 
+
+It will also drop a download package to the bottom of your browser (or the top of your browser in the downloads file if using a Mac). 
+
+- Select the downloadeded file and accept the terms of agreement
+  - If prompted, follow on-screen instructions such as "click yes, the program is safe" or "are you sure you want to open it"
+- Select the destination location and menu start folder
+- Select any additional tasks (probably only "add to path"), and then install. 
+
 {% include bootstrap/figure.md img="/visualstudio/screen-shot-2.png" caption="download file" alt="screen shot of the download file for downloading VS code" class="w-50" %}
-- After a minute or so the download should be completed and will direct you to click the "finish" button. 
+
+After a minute or so the download should be completed and will direct you to click the "finish" button. 
 
 ### Step 3: Set up Visual Studio Code 
 
@@ -32,19 +40,22 @@ You will, over time, realize your preferences in Visual Studio Code; however, he
 
 #### Update settings to meet CollectionBuilder's needs
 
-- Open your Visual Studio Code and scroll down to the gear icon in the bottom left hand corner of the window. 
+- Open Visual Studio Code and scroll down to the gear icon in the bottom left hand corner of the window
 {% include bootstrap/figure.md img="/visualstudio/screenshotgears2copy.png" caption="gear icon" alt="screen shot of gear icon" class="w-50" %}
 
-- the select the "settings" option. 
+- Select the "Settings" option
 {% include bootstrap/figure.md img="/visualstudio/screenshotsettings.png" caption="settings button" alt="screen shot of the settings button" class="w-50" %}
 
-- Toward the top right-hand corner of the window you will see a file icon, click on it.  
+- Near the top right-hand corner of the window, you will see a file icon, select it  
 {% include bootstrap/figure.md img="/visualstudio/screenshotfile.png" caption="file icon" alt="screen shot of the file icon" class="w-50" %}
 
-- You will be taken to a tab which will contain two curly brackets. Note: if there is any text contained inside of the brackets delete it now, but leave the brackets.
+You will then be taken to a tab that contains two curly brackets. *Note*: if there is any text contained inside of the brackets delete it now, but leave the brackets.
 {% include bootstrap/figure.md img="/visualstudio/sreenshot.6.png" caption="curly brackets" alt="screen shot of the file icon" class="w-50" %}
 
-- You will then copy and paste this code in between the brackets. This will update your settings to what we believe will work compatibly with Collection Builder's needs. 
+- Copy and paste the code below between the two curly brackets
+- Save your changes
+
+This will update your settings to what we believe will work compatibly with Collection Builder's needs. 
 
 ```
 "editor.minimap.enabled": false,  
@@ -61,29 +72,35 @@ You will, over time, realize your preferences in Visual Studio Code; however, he
 
 {% include bootstrap/figure.md img="/visualstudio/screenshot.7.png" caption="copied code" alt="screen shot of pasted text" class="w-50" %}
 
-- Now that you are complete be sure to save your changes before moving on. You have officially *set up* Visual Studio Code. 
+You have officially *set up* Visual Studio Code!
 
-#### Add *optional* extensions
+### Step 4: Add *optional* extensions
 
 You will get used to Visual Studio Code and determine your own preferences over time. Extensions are a great way to customize and maximize your experience coding. 
 
-- Find an icon at the bottom left-hand corner of your window. Click it. 
+- Select the "Extensions" icon at the bottom left-hand corner of your window 
 
 {% include bootstrap/figure.md img="/visualstudio/pluginfind.png" caption="extensions icon" alt="screen shot of extensions" class="w-50" %}
 
-- You should be taken to a screen like this. The search bar is where you will search any extensions you want to install. 
+A new screen and search bar will appear where you can search for any extensions you want to install. 
 
 {% include bootstrap/figure.md img="/visualstudio/searchbar.png" caption="search bar" alt="screen shot of search bar" class="w-50" %}
 
-Now it's time to start searching and installing plug-ins. It's as easy as typing in the desired program into your search bar and hitting *enter/return*. Below, I will show you two we like when working in Collection Builder. 
+#### Search and install plug-ins
 
-- Spell check: it's super helpful when navigating dense code. Often times, in Visual Studio Code, it is very easy to neglect spelling, but this program will indicate, with a squiggly and colored line (like in Microsoft Word), when you havre incorrectly spelled something. 
+Searching and installing plug-ins is as easy as typing in the desired program into your search bar and hitting *enter/return*. 
 
-- To install this extension, simply click the green "install" button. The program will do the rest. 
+A few great options when working in CollectionBuilder are:
+- *Spell check*
+  - Indicates, with a squiggly and colored line (like in Microsoft Word), when you havre incorrectly spelled something 
 
-{% include bootstrap/figure.md img="/visualstudio/spellcheck.png" alt="screen shot of spell check" class="w-50" %} 
+- Rainbow CSV
+  - Color coordinates your CSV text, helping you stay organized
+  
+- Avocode
+  - Helps when utilizing images edited in Photoshop 
 
-**Here's a quick list of other extensions you might find useful.**  
+To install one of these extensions, simply search for its name and select the green "install" button. The program will do the rest. 
 
-- Rainbow CSV (color coordinates your CSV text, helping you stay organized.
-- Avocode (helps when utilizing images edited in Photoshop) 
+{% include bootstrap/figure.md img="/visualstudio/spellcheck.png" alt="screen shot of spell check" class="w-50" %}
+
