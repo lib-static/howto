@@ -3,7 +3,7 @@ layout: howto
 title: How To Clone a Repository in GitHub
 ---
 
-This guide will help you clone a repository from your GitHub account to GitHub desktop. Cloning a repository allows you to edit and create website code within a text editor, such as [Visual Studio Code](visualstudiocode.html){:target="_blank"} or [Atom](installatom.html){:target="_blank"}. This will also download your website code files locally on your computer.
+This guide will help you clone a repository from your online GitHub account to GitHub desktop. Cloning a repository allows you to edit and create website code within a text editor, such as [Visual Studio Code](visualstudiocode.html){:target="_blank"} or [Atom](installatom.html){:target="_blank"}. This will also download your website code files locally on your computer.
 
 {:.alert .alert-warning}
 Before you clone your repository, you will need to install [GitHub Desktop.](githubdesktop.html){:target="_blank"}
