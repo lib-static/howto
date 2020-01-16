@@ -13,15 +13,12 @@ The most popular and commonly used is the Unix shell **Bash** ([Bourne Again SHe
 To open a terminal: 
 
 - Windows
-
   - Select the Windows menu and search for "Git Bash"
   
 - Mac
-
   - Navigate to the "Terminal" app via Applications > Utilities or lauch Spotlight (`Command + spacebar`) and type "Terminal"
   
 - Linux
-
   - Most likely called "Terminal"
 
 Most operating systems also allow you to open a terminal in a specific file location by right-clicking on a folder and selecting "Open in Terminal" or "Git Bash Here".
