@@ -7,7 +7,7 @@ title: How To Edit Files in GitHub Online
 
 - Select the file you would like to edit
 
-  - If you [created a new repository](setupgithubrepo.html.) and initialized it with a README file, you can get the hang of things by editing this file first 
+  - If you [created a new repository](setupgithubrepo.html.) and initialized it with a README file, you can get the hang of things by editing that file first 
 
 ### Step 2: Select the "Edit" button
 
@@ -21,9 +21,9 @@ title: How To Edit Files in GitHub Online
 
 - Type a brief title describing the changes you just made in the first text box
 
-  - This description helps you keep track of the changes and undo them later, if necessary.
+  - This description helps you keep track of the changes and undo them later, if necessary
 
-- If you need more space, describe your changes further in the optional second text box
+- If necessary, use the optional second text box to add a more detailed description
 {% include bootstrap/figure.md img="/github/github_commitchangeonline.png" caption="Describing and committing your changes" alt="Describing and committing your changes" %}
 
 ### Step 4: Commit your changes
@@ -35,6 +35,4 @@ title: How To Edit Files in GitHub Online
 {:.alert .alert-success}
 Congrats! You successfully edited, described, and committed your changes to a file on GitHub. You'll use this process anytime you make changes to your files with GitHub.
 
-For more information and guides about the GitHub workflow, see these [GitHub guides](https://help.github.com/en/desktop/contributing-to-projects){:target="_blank"}.
-
-If you're also curious about committing changes with GitHub Desktop, see this [guide](pushpullchanges.html).
+For more information and guides about the GitHub workflow, see these [GitHub guides](https://help.github.com/en/desktop/contributing-to-projects){:target="_blank"}. If you're also curious about committing changes with GitHub Desktop, see this [guide](pushpullchanges.html).
