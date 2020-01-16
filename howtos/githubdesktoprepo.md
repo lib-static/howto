@@ -41,12 +41,13 @@ Click here to download our latest release:
 This will show you the location of the repository you just cloned to your computer.
 {% include bootstrap/figure.md img="/github/github_repository-showinexplorer.png" caption="Locating the files from your new repository" alt="a screenshot of locating the new repository folder from GitHub desktop" %}
 
-- Locate the .zip folder you downloaded in step 1 
+- Locate the .zip folder you downloaded in Step 1
 {% include bootstrap/figure.md img="/github/github_locatingzipfiles.png" caption="Locating the files from the .zip folder" alt="a screenshot of locating the .zip folder" %}
 - Extract the files from the .zip folder so you can use them
 {% include bootstrap/figure.md img="/github/github_unzipcontent.png" caption="Extract the files from the .zip folder" alt="a screenshot of how to extract files from .zip" %}
-- Go into the folder you extracted and copy all the files within the CollectionBuilder folder
-- ste these files into your new repository folder
+- Navigate to the folder you extracted and copy all the files within the CollectionBuilder folder
+
+- Paste these files into your new repository folder
 {% include bootstrap/figure.md img="/github/github_aftercopyandpaste.png" caption="Your repository files should look like this" alt="a screenshot of how your repository files look after copying and pasting from Collection-Builder" %}
 
 {:.alert .alert-danger}
