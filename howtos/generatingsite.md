@@ -41,10 +41,8 @@ Generating website code in your text editor allows you to see your edits in real
 {:.alert .alert-success}
 Now you can make edits in your text editor and see them in real-time! This means you don't need to push your changes before viewing them.
 
-### Step 5: Make and view further edits
+- To see additional edits in real-time, type `ctrl + s` in your terminal then refresh your website
 
-- If you make additional edits in your text editor, save all of your changes and refresh your website to see them
+### Step 5: Close your programs or serve another website
 
-### Step 6: Close your programs or serve another website
-
-- Navigate back to your text editor terminal and type `ctrl + c`
+- Navigate back to your text editor and type `ctrl + c` into your terminal
