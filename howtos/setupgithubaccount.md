@@ -35,7 +35,7 @@ The free version has all of the features necessary to make your website, but you
 
 - GitHub will send an email to the email address you used to create your account
 
-- Open that email and follow the verification instructions
+- Open the email and follow the verification instructions
 
 ### Step 6: Use GitHub to make your own digital collection using CollectionBuilder
 
