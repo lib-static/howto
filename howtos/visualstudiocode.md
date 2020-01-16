@@ -103,9 +103,7 @@ A few great options when working in CollectionBuilder are:
 - Avocode
   - Helps when utilizing images edited in Photoshop 
 
-To install one of these extensions, simply search for its name and select the green "install" button. 
-
-The program will do the rest. 
+To install one of these extensions, simply search for its name and select the green "install" button. The program will do the rest. 
 
 {% include bootstrap/figure.md img="/visualstudio/spellcheck.png" alt="screen shot of spell check" class="w-50" %}
 
