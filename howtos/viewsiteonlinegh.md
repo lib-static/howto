@@ -34,6 +34,8 @@ This selection will reload your page.
 
 - Paste the link in the "Website" text box
 
+- Select "Save"
+
 {:.alert .alert-success}
 Now you don't have to navigate to your settings every time you want to view your website.
 
