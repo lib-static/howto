@@ -22,7 +22,7 @@ title: How To Edit Files in GitHub Online
 - Type a brief title describing the changes you just made in the first text box
 
   - This description helps you keep track of the changes and undo them later, if necessary
-
+  
 - If necessary, use the optional second text box to add a more detailed description
 {% include bootstrap/figure.md img="/github/github_commitchangeonline.png" caption="Describing and committing your changes" alt="Describing and committing your changes" %}
 
