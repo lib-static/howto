@@ -1,6 +1,6 @@
 ---
 layout: howto
-title: How To Install and Setup Atom 
+title: How To Install and Set Up Atom 
 ---
 Atom is an open source text editor, which will help you develop your Collection Builder template. 
 

@@ -22,8 +22,8 @@ The official [Jekyll install on mac docs](https://jekyllrb.com/docs/installation
 
 Frustratingly, different versions of Ruby have many dependency and incompatibility problems. We've detailed two different ways to install and manage versions on the Mac below. This is necessary, because most Macs come with an older version of Ruby already installed on the OS, but Jekyll and other applications require newer versions to work correctly. 
 
-- Your first step is to Check and see what version your Mac has installed by default. Enter `ruby -v` into your terminal (which you can open by clicking `Command (⌘) + Spacebar`, typing `terminal`, and pressing `Enter`). 
-- If the Ruby Version is > 2.2.5 you can use the system Ruby, but recommended practice is to set up a separate Ruby development environment. To do this, follow the instructions below, which outline the steps to install Ruby using [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}. Alternatively, some people have success using [Homebrew](https://brew.sh/){:target="_blank"} (`brew install ruby`) or another manager such as [rvm](https://rvm.io){:target="_blank"}, but our experience suggests rbenv is currently the best option.
+- Your first step is to check what version your Mac has installed by default. Enter `ruby -v` into your terminal (which you can open by clicking `Command (⌘) + Spacebar`, typing `terminal`, and pressing `Enter`). 
+- If the Ruby Version is > 2.4.0 you can use the system Ruby, but recommended practice is to set up a separate Ruby development environment. To do this, follow the instructions below, which outline the steps to install Ruby using [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}. Alternatively, some people have success using [Homebrew](https://brew.sh/){:target="_blank"} (`brew install ruby`) or another manager such as [rvm](https://rvm.io){:target="_blank"}, but our experience suggests rbenv is currently the best option.
 
 ## Get the Xcode Command Line Tools First
 - Ensure you have Xcode Command Line Tools, so that you can work with Ruby (and Git, etc.)
@@ -34,7 +34,7 @@ Frustratingly, different versions of Ruby have many dependency and incompatibili
 
 - You'll need to use homebrew to install rbenv. You can go to the [Homebrew](https://brew.sh/){:target="_blank"} site and follow their instructions, or follow along below
     - Open your terminal by clicking `Command (⌘) + Spacebar`, typing `terminal` into the spotlight box that appears, and pressing `Enter`
-    - Once inside your terminal, copy the script in the box underneath "Install Homebrew" on the [Homebrew](https://brew.sh/){:target="_blank"} webpage (this should read something like `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`). Paste this script into the terminal prompt and press `Enter`. 
+    - Once inside your terminal, copy the script in the box underneath "Install Homebrew" on the [Homebrew](https://brew.sh/){:target="_blank"} webpage. Paste this script you just copied into the terminal prompt and press `Enter`. 
     - You'll then be prompted to press `Enter` once more to continue the install:
 
 {:.text-center}
