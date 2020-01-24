@@ -88,8 +88,8 @@ To edit your bash profile, follow the instructions below:
 ### Install Ruby
 
 - Now you're ready to install Ruby!
-    - Install the latest version of ruby by copy/pasting or writing, `rbenv install 2.6.5`  (2.6.5 is the latest solid version as of this writing; if you are reading this past August 2020, you may need to check the "Stable Releases" section on [the download Ruby page](https://www.ruby-lang.org/en/downloads/){:target="_blank"})
-    - Now let's set that version as your global Ruby version by entering `rbenv global 2.6.3` into the terminal prompt and pressing `Enter`. 
+    - Install the latest version of ruby by copy/pasting or writing, `rbenv install 2.7.0`  (2.7.0 is the latest solid version as of this writing; if you are reading this past August 2020, you may need to check the "Stable Releases" section on [the download Ruby page](https://www.ruby-lang.org/en/downloads/){:target="_blank"}) and install the latest release.
+    - Now let's set that version as your global Ruby version by entering `rbenv global 2.7.0` into the terminal prompt and pressing `Enter`. 
     - Finally, we're going to rehash, just to be safe: copy and paste the command `rbenv rehash` into your prompt and pressing `Enter`.
 - Now let's see if that worked. 
     - Quit your terminal by right clicking (`Control + click`) its icon in your applications menu, and selecting `Quit` from the options that appear.
@@ -99,10 +99,10 @@ To edit your bash profile, follow the instructions below:
 {:.text-center}
 {% include bootstrap/image.md img="/ruby/mac/rubyv.png" class="border border-dark w-75" %}
 
-- If your terminal indicates that you have Ruby 2.6.3 or higher installed, you've done it!
+- If your terminal indicates that you have Ruby 2.7.0 or higher installed, you've done it!
 
 {:.text-success}
-Your computer should be using ruby version 2.6.3 now. 
+Your computer should be using ruby version 2.7.0 now. 
 
 If the installation did not work, you might try using RVM following the steps below or googling any error message or other hinderance you encountered. 
 
