@@ -19,3 +19,40 @@ body{
 .howto-content {
     font-size: 1.3em;
 }
+/* listjs styles */
+.sort { 
+    &:after {
+        display:inline-block;
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        content:"";
+        position: relative;
+        top:-10px;
+        right:-5px;
+    }
+    &.asc:after {
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid black;
+        content:"";
+        position: relative;
+        top:4px;
+        right:-5px;
+    }
+    &.desc:after {
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid black;
+        content:"";
+        position: relative;
+        top:-4px;
+        right:-5px;
+    }
+}
