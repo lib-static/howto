@@ -4,7 +4,7 @@
 title: CLib-Static Howtos
 description: "Collection of detailed howto docs for getting started with static web development."
 # url is your gh-pages base, following the pattern: username.github.io
-url: lib-static.github.io
+url: https://lib-static.github.io
 baseurl: /howto
 # location of code
 source-code: https://github.com/lib-static/howto
