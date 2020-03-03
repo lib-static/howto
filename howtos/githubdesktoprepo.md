@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Set Up the CollectionBuilder Repository in GitHub Desktop
+tags: GitHub
 ---
 
 {:.alert .alert-warning}

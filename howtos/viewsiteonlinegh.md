@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To View Your Site with GitHub Online
+tags: GitHub Pages
 ---
 
 ### Step 1: Sign in to your online [GitHub account](https://github.com/){:target="_blank"}

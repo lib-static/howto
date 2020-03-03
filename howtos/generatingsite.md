@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Generate your Site from Your Text Editor
+tags: Jekyll;Text Editor
 ---
 {:.alert .alert-warning}
 <div>

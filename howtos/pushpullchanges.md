@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Push and Pull Commits to a Repository (GitHub Desktop Edition)
+tags: GitHub Desktop
 ---
 
 When you edit your code online or in your text editor, you will be prompted to "commit" your changes -- think of this as "saving" your changes. 

@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Open Your Repository in a Text Editor
+tags: GitHub Desktop
 ---
 
 {:.alert .alert-warning}

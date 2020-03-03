@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Edit Files in GitHub Online
+tags: GitHub;Text Editor
 ---
 
 ### Step 1: Sign in to your [GitHub Account](https://github.com/){:target="_blank"}
