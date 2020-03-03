@@ -1,0 +1,11 @@
+# blank-dev-template
+# basic bootstrap template
+
+title: CLib-Static Howtos
+description: "Collection of detailed howto docs for getting started with static web development."
+# url is your gh-pages base, following the pattern: username.github.io
+url: lib-static.github.io
+baseurl: /howto
+# location of code
+source-code: https://github.com/lib-static/howto
+github-organization: https://github.com/lib-static/

@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Write a How-To
+tags: Meta
 ---
 
 All of our how to files will be written in markdown. Here's a quick reference: 

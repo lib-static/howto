@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Install Git
+tags: Git
 ---
 
 To manage the code and collaborate on developing your project, you need a version control system to keep everything organized. 

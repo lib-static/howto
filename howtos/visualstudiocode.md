@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Install and Set Up Visual Studio Code
+tags: Text Editor
 ---
 Visual Studio Code is an open source text editor which will help you develop your CollectionBuilder template. 
 

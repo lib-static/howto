@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Create a New GitHub Repository
+tags: GitHub
 ---
 
 This guide will show you how to create a repository in your online GitHub account.

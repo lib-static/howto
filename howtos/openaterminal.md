@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Open a Terminal
+tags: Terminal
 ---
 
 The terminal or command line is a text-based interface for efficiently getting stuff done. 

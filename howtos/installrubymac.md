@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Install Ruby on a Mac
+tags: Ruby
 ---
 
 [Ruby](https://www.ruby-lang.org/en/){:target="_blank"} is a fairly young and developing programming language with some unique features. 

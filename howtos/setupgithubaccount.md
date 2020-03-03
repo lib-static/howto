@@ -1,6 +1,7 @@
 ---
 layout: howto
 title: How To Create a GitHub Account
+tags: GitHub
 ---
 
 This guide will show you how to set up your online GitHub account.
