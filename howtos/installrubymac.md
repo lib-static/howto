@@ -7,14 +7,14 @@ tags: Ruby
 [Ruby](https://www.ruby-lang.org/en/){:target="_blank"} is a fairly young and developing programming language with some unique features. 
 To use Jekyll, ***you do not need to know anything about Ruby***, but if you are curious, check out [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/){:target="_blank"}.
 Jekyll requires Ruby version 2.4.0 or above (at the time of this writing), plus a few common build tools. 
-Check the [Jekyll requirements](https://jekyllrb.com/docs/installation/) for latest details.
+Check the [Jekyll requirements](https://jekyllrb.com/docs/installation/){:target="_blank"} for latest details.
 
 {:.alert .alert-warning}
 Installing Ruby on Mac can be a PAIN IN THE ASS. Stick with it! We detail several different trouble shooting techniques below, but if you run into other issues, please let us know and we can update this guide with more warnings and (hopefully) solutions. Also, make sure to follow steps 1 and 2!
 
-1. Make yourself a beverage of some sort, adult or otherwise. We recommend a [Terminal Gravity Eagle Cap IPA](https://terminalgravitybrewing.com/eagle-cap) if you're in the Northwest, or a [Bell's Two Hearted](http://www.bellsbeer.com/beer/year-round/two-hearted-ale) if in the East or Midwest. Alternatively, a nice Kombucha or green tea would be excellent as well.
+1. Make yourself a beverage of some sort, adult or otherwise. We recommend a [Terminal Gravity Eagle Cap IPA](https://terminalgravitybrewing.com/eagle-cap){:target="_blank"} if you're in the Northwest, or a [Bell's Two Hearted](http://www.bellsbeer.com/beer/year-round/two-hearted-ale){:target="_blank"} if in the East or Midwest. Alternatively, a nice Kombucha or green tea would be excellent as well.
 
-2. Put on something soothing, maybe some [Satie](https://youtu.be/_fuIMye31Gw). 
+2. Put on something soothing, maybe some [Satie](https://youtu.be/_fuIMye31Gw){:target="_blank"}. 
 
 3. Start with rbenv, and good luck. 
 
