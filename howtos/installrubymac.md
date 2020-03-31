@@ -69,7 +69,7 @@ To edit your bash profile, follow the instructions below:
 {% include bootstrap/image.md img="/ruby/mac/bash1.png" class="border border-dark w-75" %}
 
 - Use the down arrow on your keyboard to move to the end of the text file.
-- Paste `eval "$(rbenv init -)` at the end of the profile's text:
+- Paste `eval "$(rbenv init -)"` at the end of the profile's text:
 
 {:.text-center}
 {% include bootstrap/image.md img="/ruby/mac/bash2.png" class="border border-dark w-75" %}
